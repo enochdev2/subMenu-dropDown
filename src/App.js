@@ -1,10 +1,10 @@
 import React from 'react'
-import ProductApp from './Component/Product/Products/ProductsApp'
+import StripeApp from './component/Stripe/StripeApp';
 
 
 const App = () => {
   return (
-    <ProductApp />
+    <StripeApp />
   )
 }
 

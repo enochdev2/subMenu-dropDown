@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/subMenu-dropDown/static/css/main.daf2742a.css",
+    "main.js": "/subMenu-dropDown/static/js/main.582f0997.js",
+    "static/media/stripeIma.png": "/subMenu-dropDown/static/media/stripeIma.51418216780394811ef7.png",
+    "index.html": "/subMenu-dropDown/index.html",
+    "main.daf2742a.css.map": "/subMenu-dropDown/static/css/main.daf2742a.css.map",
+    "main.582f0997.js.map": "/subMenu-dropDown/static/js/main.582f0997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf2742a.css",
+    "static/js/main.582f0997.js"
+  ]
+}
